@@ -5,7 +5,7 @@
 This project visualizes the **Juia set fractal**.
 
 ### How it work
-The codes iterates the formula:
+The codes iterates the formula(with C= complex number of (-0.7, 0.27015)):
 
 <img width="127" height="43" alt="Capture" src="https://github.com/user-attachments/assets/671909af-2023-4683-a28f-f325ebb8e195" />
 
@@ -20,7 +20,7 @@ for each point(x, y) on the plane.Depending on whetherthe point diverges or conv
 Ce projet visualise la **fractale de l'ensemble Juia**.
 
 ### Fonctionnement
-Le code itère la formule :
+Le code itère la formule(avec C =  nombre complexe de (-0.7, 0.27015):
 
 <img width="127" height="43" alt="Capture" src="https://github.com/user-attachments/assets/671909af-2023-4683-a28f-f325ebb8e195" />
 
