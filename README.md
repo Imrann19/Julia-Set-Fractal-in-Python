@@ -13,6 +13,8 @@ for each point(x, y) on the plane.Depending on whetherthe point diverges or conv
 
 ### Screenshot
 
+<img width="800" height="500" alt="frame_000" src="https://github.com/user-attachments/assets/2183f0c9-a310-4d60-a2c8-2b225668bf06" />
+
 ## Français
 ### Description
 Ce projet visualise la **fractale de l'ensemble Juia**.
@@ -25,3 +27,5 @@ Le code itère la formule :
 pour chaque point (x, y) du plan. Selon que le point diverge ou converge, une couleur lui est attribuée en fonction de la vitesse de divergence.
 
 ### Capture d'écran
+
+<img width="800" height="500" alt="frame_000" src="https://github.com/user-attachments/assets/2183f0c9-a310-4d60-a2c8-2b225668bf06" />
