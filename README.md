@@ -4,6 +4,8 @@
 ### Desciption
 This project visualizes the **Juia set fractal**.
 
+Watch the fractal zoom animation (Mandelbrot & Julia) on YouTube: [Fractal Zoom Video](https://youtu.be/eYUTN04xZbY)
+
 ### How it work
 The codes iterates the formula(with C= complex number of (-0.7, 0.27015)):
 
