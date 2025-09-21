@@ -18,6 +18,7 @@ for each point(x, y) on the plane.Depending on whetherthe point diverges or conv
 ## Français
 ### Description
 Ce projet visualise la **fractale de l'ensemble Juia**.
+Regardez l’animation du zoom fractal (Mandelbrot & Julia) sur YouTube : [Vidéo Zoom Fractal](https://youtu.be/eYUTN04xZbY)
 
 ### Fonctionnement
 Le code itère la formule(avec C =  nombre complexe de (-0.7, 0.27015):
